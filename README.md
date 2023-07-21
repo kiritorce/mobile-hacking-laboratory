@@ -16,12 +16,12 @@ laboratories.
 </p>
 
 <p align="center">
-  <a href="https://github.com/hackingforce/wiki.hackingforce.com.br" target="_blank">
-    <img src="https://img.shields.io/github/stars/hackingforce/wiki.hackingforce.com.br" 
+  <a href="https://github.com/kiritorce/docs.kirito.com.br" target="_blank">
+    <img src="https://img.shields.io/github/stars/kiritorce/docs.kirito.com.br" 
 alt="Stargazers" />
   </a>
-  <a href="https://github.com/hackingforce/wiki.hackingforce.com.br" target="_blank">
-    <img src="https://img.shields.io/github/issues/hackingforce/wiki.hackingforce.com.br" alt="Issues" 
+  <a href="https://github.com/kiritorce/docs.kirito.com.br" target="_blank">
+    <img src="https://img.shields.io/github/issues/kiritorce/docs.kirito.com.br" alt="Issues" 
 />
   </a>
 </p>
@@ -40,4 +40,3 @@ understanding of the cybersecurity universe.
 * E-mail - [docs@kirito.com.br](mailto:docs@hackingforce.com.br)
 * Personal Discord - kirito.rce
 * Discord community - [Community Server](https://discord.gg/2QRkgT3CM3)
-
